@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubyjboyle
 - 👀 I’m interested in Web Development, Web Design, UX/UI, Web Accessibility.
-- 🌱 I’m currently learning Accessibility from Deque University.
+- 🌱 I’m currently learning accessibility from Deque University.
 - 📫 You can reach me at rubyjboyle@gmail.com or visit my portfolio at rubyboyle.com
 
 <!---
